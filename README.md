@@ -23,7 +23,7 @@ pip install requests
 pip install stdiomask
 pip install bs4
 pip install rich
-git clone https://github.com/ReyyFUSHIGURO
+git clone https://github.com/ReyyFUSHIGURO/Vermeil4K
 pip install pycryptodome
 ```
 -----
